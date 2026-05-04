@@ -1,0 +1,8 @@
+
+qulacs
+torch
+qiskit==2.0.0
+quimb
+optuna
+kahypar
+jax
